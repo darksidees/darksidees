@@ -19,5 +19,3 @@ em ADS (Analise e Desenvolvimento de Sistemas) e um curioso pela área da tecnol
   </div>
   
   ##
-  
-  ![Snake animation](https://github.com/darksidees/darksidees/blob/output/github-contribution-grid-snake.svg)
