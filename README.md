@@ -7,8 +7,8 @@ em ADS (Analise e Desenvolvimento de Sistemas) e um curioso pela área da tecnol
 
 <div align="center">
   <a href="https://github.com/darksidees">
-  <img height="42em" src="https://github-readme-stats.vercel.app/api?username=darksidees&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksidees&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darksidees&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksidees&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Raphael-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
